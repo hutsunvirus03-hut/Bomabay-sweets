@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg-shape { fill: #5A248F; }
+      .text-gold { fill: #FFD700; font-family: 'Arial Rounded MT Bold', 'Helvetica', sans-serif; font-weight: bold; }
+      .tagline { fill: #331A4D; font-family: 'Segoe UI', sans-serif; text-anchor: middle; font-weight: 600; }
+    </style>
+  </defs>
+
+  <path class="bg-shape" d="M 190 55 
+                           A 25 25 0 0 1 210 55
+                           L 255 100
+                           A 20 20 0 0 0 270 90
+                           A 20 20 0 0 0 290 110
+                           A 20 20 0 0 0 315 115
+                           L 345 145 
+                           a 30 30 0 0 1 0 42
+                           L 211 321 
+                           a 30 30 0 0 1 -42 0
+                           L 55 207 
+                           a 30 30 0 0 1 0 -42 
+                           Z" />
+
+  <g transform="translate(200, 185)" text-anchor="middle">
+    <text y="-55" class="text-gold" font-size="14" letter-spacing="1">கோவில்பட்டி •</text>
+    
+    <text y="-20" class="text-gold" font-size="38" font-weight="900" letter-spacing="2">பாம்பே</text>
+    
+    <text y="25" class="text-gold" font-size="36" font-weight="900" letter-spacing="1">ஸ்வீட்ஸ்</text>
+    
+    <text y="55" class="text-gold" font-size="13" letter-spacing="1">• 1991 முதல் •</text>
+  </g>
+
+  <text x="200" y="355" class="tagline" font-size="15" letter-spacing="0.5">உங்கள் சந்தோஷமான</text>
+  <text x="200" y="380" class="tagline" font-size="15" letter-spacing="0.5">தருணங்களில்</text>
+</svg>
